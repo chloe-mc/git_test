@@ -1,1 +1,1 @@
-This is chloe-t's first git project!
+Used simple web app to learn how to use git.
